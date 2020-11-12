@@ -1,3 +1,16 @@
+INSTRUCTIONS for the checkpoint (learn GoMyCode)
+Let’s start to play around with React.
+  1. Create a new React project.
+  2. Add bootstrap to your project.
+  3. Try to create a  form using bootstrap.
+
+ Before you start with react you should follow these steps:
+  1. Install Node JS
+  2. Install Visual Studio Code
+  3. Create a folder and access it using the command line
+   (Type “ code .” to open the folder in vscode) 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
