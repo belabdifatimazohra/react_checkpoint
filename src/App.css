@@ -40,3 +40,26 @@
 h1 {
   color: #212529;
 }
+.login {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  background-color: #f1f3f8;
+  height: 300px;
+}
+
+.div-1,
+.form {
+  padding: 40px;
+  margin: auto 0;
+}
+
+.btn Button,
+.btn Button:hover {
+  background-color: #5eaaa8;
+  border-color: #5eaaa8;
+}
+
+.footer-copyright a {
+  color: #5eaaa8;
+}
